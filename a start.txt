@@ -1,0 +1,5 @@
+A mettre dans le server.cfg pour start les ressources :
+
+start thor_burgershot
+
+start vehicles_burgershot
